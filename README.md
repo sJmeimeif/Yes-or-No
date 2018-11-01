@@ -1,3 +1,2 @@
 # ss
-sujie
-hello,word
+刚接触很陌生，但是我会尽快适应。
